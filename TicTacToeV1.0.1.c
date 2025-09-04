@@ -87,7 +87,6 @@ void Continue( void )
 	char ch;
 	printf( "按enter键继续:\t" );
 	scanf( "%c", &ch );
-	//热知识:可以往函数头输入(scanf)东西,调用一次就要输入一次
 	printf( "\n" );
 }
 
