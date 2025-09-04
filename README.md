@@ -35,6 +35,6 @@
 ---
 
 ## 附
-当时和室友一起玩的时候发现[判定机制算法]()有 bug, 一时没看出问题在哪, 就等它吃灰了...  
+当时和室友一起玩的时候发现[判定机制算法](https://github.com/existed-name/C-LianzhuChess/blob/main/LianzhuChessV2.0.0.c#L557-L687)有 bug, 一时没看出问题在哪, 就等它吃灰了...  
 ![判断机制 bug](images/check-win-bug.png)
 
