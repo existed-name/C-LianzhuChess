@@ -100,8 +100,7 @@ void Continue(void)
 {
 	char ch;
 	printf("按enter键继续:\t");
-	scanf("%c", &ch);
-	//冷知识:可以往函数头输入(scanf)东西,调用一次就要输入一次
+	scanf("%c", &ch); // 才知道函数里面也可以 scanf
 	printf("\n");
 }
 
